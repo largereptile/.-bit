@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+// Menu script made for exhibition build
+using System.Collections.Generic;
 
 using UnityEngine;
 using UnityEngine.UI;
