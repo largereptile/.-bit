@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Manages keypresses and hitting the actual notes
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
