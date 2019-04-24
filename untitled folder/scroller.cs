@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Scrolls the song select screen
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
