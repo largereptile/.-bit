@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script used for every fade transition
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
