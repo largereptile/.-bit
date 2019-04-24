@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script running the background music
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
