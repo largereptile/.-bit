@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script assigned to each note object
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
