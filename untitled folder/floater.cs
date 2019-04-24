@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script controlling the small circle that follows the cursor
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
