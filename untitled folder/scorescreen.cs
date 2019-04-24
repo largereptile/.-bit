@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Generates a score screen using the score manager
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
