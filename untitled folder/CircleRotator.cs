@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script to rotate circles on the main menu and score screen
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
