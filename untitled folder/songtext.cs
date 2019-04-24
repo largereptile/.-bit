@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Script that creates each box on the song selection screen
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
