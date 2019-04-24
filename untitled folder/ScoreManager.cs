@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// Manages score for the ending screen
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
